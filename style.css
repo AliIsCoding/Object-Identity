@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+color:red;
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+a  {
+    background-color:white;
+    color:rgba(239, 142, 15, 0.773);
+    border-radius: 20px;
+    font-style: oblique;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    margin:10px;
+    padding:10px;
+}
